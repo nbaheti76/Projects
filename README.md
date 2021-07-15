@@ -23,3 +23,4 @@ This repository has some of the exciting projects and assignments that I have be
 ##### During a Design Sprint, “How Might We” is a method to capture problems and frame them as opportunities that can be solved. Post-it notes are used to capture each statement.
 ![gif](HowMightWe.gif)
 
+# User Stories and Sprint Planning
