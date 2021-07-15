@@ -12,4 +12,4 @@ This repository has some of the exciting projects and assignments that I have be
 
 ## Prototyping with Figma
 Kaiser Fitness App
-![gif](edgeledger-site.gif)
+![gif](FitnessApp.gif)
