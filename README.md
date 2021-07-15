@@ -24,3 +24,5 @@ This repository has some of the exciting projects and assignments that I have be
 ![gif](HowMightWe.gif)
 
 # User Stories and Sprint Planning
+##### Below are examples of user stories for a new fitness app feature, including the acceptance criteria and assumptions. The user stories are incorporated to identify Sprint Backlog and Sprint Goal, during the Sprint Planning Meeting. 
+![gif](UserStories.gif)
