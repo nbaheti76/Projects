@@ -16,8 +16,7 @@
 
 # 4. Storyboarding
 ##### [plot.io](https://theplot.io/) is a great tool for storyboarding. The first frame of a storyboard should articulate the problem. The last frame should show how your product helped the user solve the problem. The frames in between the first and last frame should show how the user gets from the problem to the solution. 
-![image](https://user-images.githubusercontent.com/64765832/125737792-fb82af12-f6b7-494e-9962-24cb2afb1a01.png)
-
+<img src="https://user-images.githubusercontent.com/64765832/125737792-fb82af12-f6b7-494e-9962-24cb2afb1a01.png" width="725" height="370">
 
 # 5. Design Sprint: "How Might We"
 ##### During a Design Sprint, “How Might We” is a method to capture problems and frame them as opportunities that can be solved. Post-it notes are used to capture the "How Might We" statements. Each post-it has one statement.
