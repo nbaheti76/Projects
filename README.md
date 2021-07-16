@@ -19,10 +19,10 @@
 
 
 # 5. Design Sprint: "How Might We"
-##### During a Design Sprint, “How Might We” is a method to capture problems and frame them as opportunities that can be solved. Post-it notes are used to capture each statement.
+##### During a Design Sprint, “How Might We” is a method to capture problems and frame them as opportunities that can be solved. Post-it notes are used to capture the "How Might We" statements. Each post-it has one statement.
 ![gif](HowMightWe.gif)
 
 
 # 6. User Stories and Sprint Planning
-##### Below are examples of user stories for a new fitness app feature, including the acceptance criteria and assumptions. The user stories are incorporated to identify Sprint Backlog and Sprint Goal, during the Sprint Planning Meeting. 
+##### Below are examples of user stories for a new fitness app feature. The user stories include  acceptance criteria and assumptions. The user stories are incorporated to identify Sprint Backlog and Sprint Goal, during the Sprint planning meeting. 
 ![gif](UserStories.gif)
