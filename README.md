@@ -11,8 +11,7 @@
 
 # 3. Prototyping with Figma
 ##### Using Figma to develop a mock prototype of a fitness app. This fitness app which tracks users activity and allows the users to challenge their friends to a see who is more physically active. It also shows visual trends of activity, weight, water consumption, and sleep. [Click here](https://www.figma.com/file/adgPzMaM1NjwhqVtFeguuW/Kaiser-Fitness-App?node-id=0%3A1) to view the prototype. 
-![gif](FitnessApp.gif)
-
+<img src="FitnessApp.gif" width="300" height="600"/>
 
 # 4. Storyboarding
 ##### [plot.io](https://theplot.io/) is a great tool for storyboarding. The first frame of a storyboard should articulate the problem. The last frame should show how your product helped the user solve the problem. The frames in between the first and last frame should show how the user gets from the problem to the solution. 
@@ -20,9 +19,9 @@
 
 # 5. Design Sprint: "How Might We"
 ##### During a Design Sprint, “How Might We” is a method to capture problems and frame them as opportunities that can be solved. Post-it notes are used to capture the "How Might We" statements. Each post-it has one statement.
-![gif](HowMightWe.gif)
+<img src="HowMightWe.gif" width="675" height="350"/>
 
 
 # 6. User Stories and Sprint Planning
 ##### Below are examples of user stories for a new fitness app feature. The user stories include  acceptance criteria and assumptions. The user stories are incorporated to identify Sprint Backlog and Sprint Goal, during the Sprint planning meeting. 
-![gif](UserStories.gif)
+<img src="UserStories.gif" width="675" height="350"/>
