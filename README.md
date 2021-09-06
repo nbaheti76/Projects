@@ -24,7 +24,7 @@
 
 
 # 6. Data Science Project
-##### Like working with youth athletes? Want to open a new Physical Therapy clinic in NYC? Not sure of exactly where to open a clinic? This project uses data science to identify the most central and cost-effective location in the "Big Apple". This project utilizes geopy python client, K-means calculations, and data visualizations tools to find the ideal location for a new clinic. 
+##### Like working with youth athletes? Want to open a new Physical Therapy clinic in NYC? Not sure of exactly where to open a clinic? This project uses data science to identify the most central and cost-effective location in the "Big Apple". This project utilizes geopy python client, K-means calculations, and data visualizations tools to find the ideal location for a new clinic. <a href="https://www.linkedin.com/pulse/battle-neighborhoods-neeraj-baheti-pt-dpt-scs-ocs-cscs/"> Click here. </a> 
 <a href="https://www.linkedin.com/pulse/battle-neighborhoods-neeraj-baheti-pt-dpt-scs-ocs-cscs/">
 <img src="https://user-images.githubusercontent.com/64765832/125731982-b00c150a-8769-49c3-9b4a-849815554dc3.png" width="675" height="350">
 </a>
